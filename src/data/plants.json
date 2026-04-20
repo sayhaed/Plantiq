@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "nombre": "Monstera Deliciosa",
+    "nombreCientifico": "Monstera Deliciosa",
+    "nombreComun": "Costilla de Adán",
+    "descripcionGeneral": "Originaria de las selvas tropicales de América Central y del Sur. La planta comienza plana de la hoja indivisa, existiendo grandes cambios con que se forman en esas grietas o agujeros, característica única de su especie.",
+    "cuidados": {
+      "luz": "Brillante pero indirecta. Excelente en luminosidad parcial.",
+      "riego": "Cada 5-7 días. Permitir que la tierra se seque entre riegos.",
+      "humedad": "Alta. Preferible humidificador. Rociar frecuentemente.",
+      "temperatura": "Ideal entre 18-27°C. Evitar corrientes de aire frío."
+    },
+    "historia": "Conocida como 'Costilla de Adán' por la forma de sus hojas. Ha sido utilizada en decoración por siglos por su belleza única.",
+    "enfermedades": ["Cochinilla", "Ácaros", "Hongos", "Pudrición de raíz"],
+    "galeria": ["monstera1.jpg", "monstera2.jpg", "monstera3.jpg"]
+  },
+  {
+    "id": 2,
+    "nombre": "Pothos",
+    "nombreCientifico": "Epipremnum aureum",
+    "nombreComun": "Pothos, Poto o Zumo",
+    "descripcionGeneral": "Planta de interior muy popular y resistente. Crece rápidamente y es excelente para principiantes. Sus tallos pueden trepar o colgar según el soporte.",
+    "cuidados": {
+      "luz": "Luz indirecta. Tolera sombra parcial muy bien.",
+      "riego": "Cada 5-7 días. Dejar secar entre riegos.",
+      "humedad": "Moderada. Rociar ocasionalmente.",
+      "temperatura": "Entre 15-25°C. Sensible al frío."
+    },
+    "historia": "Originaria del Sudeste Asiático. Es una de las plantas más resistentes y fáciles de cuidar.",
+    "enfermedades": ["Ácaros", "Cochinilla", "Mosca blanca"],
+    "galeria": ["pothos1.jpg", "pothos2.jpg", "pothos3.jpg"]
+  },
+  {
+    "id": 3,
+    "nombre": "Ficus Lyrata",
+    "nombreCientifico": "Ficus lyrata",
+    "nombreComun": "Árbol de Hoja de Violín",
+    "descripcionGeneral": "Planta de gran tamaño con hojas grandes y vistosas en forma de violín. Añade drama y elegancia a cualquier espacio.",
+    "cuidados": {
+      "luz": "Luz brillante e indirecta. Necesita buena iluminación.",
+      "riego": "Cuando la tierra esté seca al tacto, generalmente cada 10 días.",
+      "humedad": "Moderada a alta. Limpiar hojas regularmente.",
+      "temperatura": "Entre 16-27°C. Evitar cambios bruscos."
+    },
+    "historia": "Originaria de África Occidental. Se ha convertido en una planta de decoración muy popular en hogares modernos.",
+    "enfermedades": ["Escala", "Ácaros", "Cochinilla", "Pudrición de raíz"],
+    "galeria": ["ficus1.jpg", "ficus2.jpg", "ficus3.jpg"]
+  },
+  {
+    "id": 4,
+    "nombre": "Calathea Orbifolia",
+    "nombreCientifico": "Goeppertia orbifolia",
+    "nombreComun": "Calathea Orbifolia",
+    "descripcionGeneral": "Planta tropical con hojas grandes y ovaladas de color verde plateado. Muy apreciada por su follaje ornamental.",
+    "cuidados": {
+      "luz": "Luz indirecta brillante. No tolera luz directa.",
+      "riego": "Mantener tierra húmeda pero no encharcada. Cada 3-4 días.",
+      "humedad": "Muy alta. Ideal con humidificador. Rociar frecuentemente.",
+      "temperatura": "Entre 18-24°C. Sensible a temperaturas bajas."
+    },
+    "historia": "Originaria de Brasil. Sus hojas producen sonidos cuando se mueven (de ahí el apodo 'Planta que reza').",
+    "enfermedades": ["Ácaros", "Cochinilla", "Hongo foliar"],
+    "galeria": ["calathea1.jpg", "calathea2.jpg", "calathea3.jpg"]
+  },
+  {
+    "id": 5,
+    "nombre": "Snake Plant",
+    "nombreCientifico": "Sansevieria trifasciata",
+    "nombreComun": "Lengua de Suegra, Espada de San Jorge",
+    "descripcionGeneral": "Planta de interior muy resistente con hojas verticales alargadas. Excelente para purificar el aire.",
+    "cuidados": {
+      "luz": "Luz indirecta a parcial. Tolera sombra bien.",
+      "riego": "Dejar secar completamente entre riegos. Cada 2-3 semanas.",
+      "humedad": "Baja. Prefiere ambientes secos.",
+      "temperatura": "Entre 15-27°C. Muy tolerante."
+    },
+    "historia": "Originaria de África Occidental. Es una planta casi indestructible, perfecta para principiantes.",
+    "enfermedades": ["Ácaros", "Pudrición de raíz (por exceso agua)", "Mosca blanca"],
+    "galeria": ["snake1.jpg", "snake2.jpg", "snake3.jpg"]
+  },
+  {
+    "id": 6,
+    "nombre": "Philodendron",
+    "nombreCientifico": "Philodendron hederaceum",
+    "nombreComun": "Filodendro, Corazón de Fruta",
+    "descripcionGeneral": "Planta tropical con hojas en forma de corazón. Crece rápidamente y es muy adaptable.",
+    "cuidados": {
+      "luz": "Luz indirecta brillante. Tolera sombra parcial.",
+      "riego": "Cuando la tierra esté seca al tacto. Cada 5-7 días.",
+      "humedad": "Moderada a alta. Rociar ocasionalmente.",
+      "temperatura": "Entre 18-27°C. Evitar frío extremo."
+    },
+    "historia": "Originaria de América Central y del Sur. Es una planta muy popular en oficinas y hogares.",
+    "enfermedades": ["Ácaros", "Cochinilla", "Hongo foliar"],
+    "galeria": ["philodendron1.jpg", "philodendron2.jpg", "philodendron3.jpg"]
+  },
+  {
+    "id": 7,
+    "nombre": "Orquídea Phalaenopsis",
+    "nombreCientifico": "Phalaenopsis",
+    "nombreComun": "Orquídea Polilla",
+    "descripcionGeneral": "Planta floral con flores delicadas y elegantes. Sus flores pueden durar meses con los cuidados adecuados.",
+    "cuidados": {
+      "luz": "Luz indirecta brillante. Necesaria para florecer.",
+      "riego": "Mantener media seca. Una vez a la semana. Usar agua tibia.",
+      "humedad": "Moderada a alta. Rociar ocasionalmente.",
+      "temperatura": "Entre 15-29°C. Evitar temperaturas menores a 12°C."
+    },
+    "historia": "Originaria del Sudeste Asiático. Es la orquídea más popular para interior por su facilidad.",
+    "enfermedades": ["Cochinilla", "Ácaros", "Hongos", "Virus"],
+    "galeria": ["orchid1.jpg", "orchid2.jpg", "orchid3.jpg"]
+  },
+  {
+    "id": 8,
+    "nombre": "Suculenta - Echeveria",
+    "nombreCientifico": "Echeveria",
+    "nombreComun": "Echeveria, Rosa de Piedra",
+    "descripcionGeneral": "Planta suculenta con forma de roseta. Requiere poco mantenimiento y es muy vistosa.",
+    "cuidados": {
+      "luz": "Luz directa. Necesita al menos 4-6 horas de luz solar directa.",
+      "riego": "Muy poco. Una vez cada 2-3 semanas en verano, menos en invierno.",
+      "humedad": "Baja. Prefiere ambientes secos.",
+      "temperatura": "Entre 10-27°C. Tolera bien los cambios."
+    },
+    "historia": "Originaria de México. Las suculentas son ideales para cultivadores sin experiencia.",
+    "enfermedades": ["Cochinilla", "Pudrición de raíz", "Ácaros"],
+    "galeria": ["echeveria1.jpg", "echeveria2.jpg", "echeveria3.jpg"]
+  }
+]
