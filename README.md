@@ -54,19 +54,3 @@ Este proyecto usa Tailwind v4, asi que el setup recomendado es via Vite plugin y
 /* src/index.css */
 @import "tailwindcss";
 ```
-
-Si ves estilos incompletos o parece "HTML pelon", revisa:
-
-1. `vite.config.js` tenga `@tailwindcss/vite` habilitado.
-2. `src/main.jsx` importe `./index.css`.
-
-## Troubleshooting rapido
-
-- Pantalla en blanco con error de Vite tipo "doesn't provide an export named ...":
-  - Normalmente es un import incorrecto. Revisa el archivo/linea que te marca la consola.
-- Tailwind no aplica:
-  - Para Tailwind v4, usa `@import "tailwindcss";` en `src/index.css` y asegurate de tener el plugin de Vite.
-
-## Licencia
-
-MIT (o la que prefieras). Si no vas a publicar el codigo, puedes borrar esta seccion sin problema.
